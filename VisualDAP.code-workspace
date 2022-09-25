@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../VisualDAP"
+		},
+		{
+			"name": "VisualDAP_MP",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp"
+		}
+	}
+}
